@@ -1,6 +1,7 @@
 # Face-Recognition-Using-OpenCv
 
-![Screenshot 2025-02-03 142808](https://github.com/user-attachments/assets/dd91970e-d777-43e3-b311-b7f3c2248ee5)
+![Screenshot 2025-02-03 144819](https://github.com/user-attachments/assets/292dd04f-08fb-4d48-afda-6845934b51c6)
+
 
 
 
