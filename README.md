@@ -1,6 +1,7 @@
 # Face-Recognition-Using-OpenCv
 
-![Uploading Screenshot 2025-02-03 142808.png…]()
+![Screenshot 2025-02-03 142808](https://github.com/user-attachments/assets/dd91970e-d777-43e3-b311-b7f3c2248ee5)
+
 
 
 This project demonstrates real-time face detection using a webcam feed and OpenCV. The script utilizes a pre-trained Haar Cascade Classifier to detect faces and display them with bounding boxes in a live video feed.
