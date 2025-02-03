@@ -1,5 +1,8 @@
 # Face-Recognition-Using-OpenCv
 
+![Uploading Screenshot 2025-02-03 142808.png…]()
+
+
 This project demonstrates real-time face detection using a webcam feed and OpenCV. The script utilizes a pre-trained Haar Cascade Classifier to detect faces and display them with bounding boxes in a live video feed.
 
 #Requirements
@@ -44,4 +47,4 @@ Notes
 Ensure the Haar Cascade model file (haarcascade_frontalface_default.xml) is in the correct path.
 The default camera (ID 0) is used for video capture. If you have multiple cameras, you can modify the cv2.VideoCapture() parameter to select a different one.
 
-![Screenshot 2025-02-03 142808](https://github.com/user-attachments/assets/5872d5aa-d723-4f5b-99ed-5f47d73e5470)
+
